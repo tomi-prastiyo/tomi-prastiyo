@@ -23,19 +23,16 @@ I'm a passionate full stack developer with a keen interest in building scalable 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
-### 📊 **Activity & Daily Average**:
+### 📊 **Activity**:
 
-#### 💻 **Total Activity**:
+<img src="https://wakatime.com/share/@tomipr/6bada289-9756-49ab-a5bc-3103b6860309.svg" alt="Activity" width="100%">
 
-![Activity](https://wakatime.com/share/@tomipr/6bada289-9756-49ab-a5bc-3103b6860309.svg)
+### 🕒 **Daily Average** & 🔥 **Top Languages**
 
-#### 🕒 **Daily Average**:
-
-![Daily Average](https://wakatime.com/share/@tomipr/33ec40eb-62c8-4525-8292-df3186f3e527.svg)
-
-### 🔥 Top Languages:
-
-![Top Languages](https://wakatime.com/share/@tomipr/4995a4af-6e50-4197-b2f7-bda9bbd5017d.svg)
+<p align="center">
+  <img src="https://wakatime.com/share/@tomipr/3807cb5c-1751-4fcc-80d2-88331fbbf6ae.svg" alt="Daily Average" width="500" />
+  <img src="https://wakatime.com/share/@tomipr/4995a4af-6e50-4197-b2f7-bda9bbd5017d.svg" alt="Top Languages" width="500" />
+</p>
 
 ---
 
