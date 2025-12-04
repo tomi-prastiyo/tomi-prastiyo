@@ -1,10 +1,10 @@
 
-<svg width="498" height="392.5" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
+<svg width="350" height="116" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
   <rect
     x="1"
     y="1"
-    width="496"
-    height="390.5"
+    width="348"
+    height="114"
     fill="#2a2a2e"
     stroke="#f5f5f5"
     stroke-width="2"
@@ -12,44 +12,15 @@
     ry="10"
   />
   
-    <g transform="translate(20, 20) scale(0.9248571428571428)">
+    <g transform="translate(20, 20) scale(0.65)">
       <g transform="scale(0.075)" style="color:#7a7266"><path fill="currentColor" d="M128 0C57.308 0 0 57.308 0 128c0 70.693 57.308 128 128 128 70.693 0 128-57.307 128-128C256 57.308 198.693 0 128 0m0 33.805c51.939 0 94.195 42.256 94.195 94.195 0 51.94-42.256 94.195-94.195 94.195-51.939 0-94.195-42.255-94.195-94.195 0-51.939 42.256-94.195 94.195-94.195m-12.5 121.838h-.113a6.342 6.342 0 0 1-4.953-2.528L81.56 114.732a6.34 6.34 0 0 1 10.131-7.62l23.993 31.893 6.863-8.478a6.34 6.34 0 0 1 4.926-2.35h.008a6.331 6.331 0 0 1 4.93 2.364l6.59 8.187 37.692-48.594a6.338 6.338 0 0 1 10.015 7.77L144.1 152.837a6.338 6.338 0 0 1-4.95 2.453h-.057a6.335 6.335 0 0 1-4.938-2.364l-6.697-8.319-7.033 8.686a6.336 6.336 0 0 1-4.926 2.35"/></g>
       <text x="30" y="15" fill="#ff8fc8" font-size="16" font-family="Calibri">
         WakaTime Stats
       </text>
     </g>
-  <g transform="translate(0, 56) scale(1)">
-      <text font-family="Calibri" x="245" y="22.5" font-size="12" text-anchor="middle" fill="#ffffff" font-weight="bold">I mostly code in Go</text>
-      <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#ffffff">Go</text>
-<rect x="75" y="46.5" width="340" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="421" y="55.5" font-size="9" fill="#ffffff">829:24    |    55.4%</text>
-<text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#ffffff">JavaScript</text>
-<rect x="75" y="70.5" width="138.7013654678429" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="219.7013654678429" y="79.5" font-size="9" fill="#ffffff">338:21    |    22.6%</text>
-<text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#ffffff">TypeScript</text>
-<rect x="75" y="94.5" width="73.46876601614619" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="154.4687660161462" y="103.5" font-size="9" fill="#ffffff">179:13    |    12.0%</text>
-<text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#ffffff">JSON</text>
-<rect x="75" y="118.5" width="13.057590729328613" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="94.05759072932861" y="127.5" font-size="9" fill="#ffffff">31:51    |    2.1%</text>
-<text font-family="Calibri" x="67" y="151.5" font-size="10" text-anchor="end" fill="#ffffff">SQL</text>
-<rect x="75" y="142.5" width="12.589698809374054" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="93.58969880937406" y="151.5" font-size="9" fill="#ffffff">30:42    |    2.1%</text>
-<text font-family="Calibri" x="67" y="175.5" font-size="10" text-anchor="end" fill="#ffffff">Bash</text>
-<rect x="75" y="166.5" width="11.855904899968579" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="92.85590489996858" y="175.5" font-size="9" fill="#ffffff">28:55    |    1.9%</text>
-<text font-family="Calibri" x="67" y="199.5" font-size="10" text-anchor="end" fill="#ffffff">PHP</text>
-<rect x="75" y="190.5" width="8.201471914432616" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="89.20147191443262" y="199.5" font-size="9" fill="#ffffff">20:00    |    1.3%</text>
-<text font-family="Calibri" x="67" y="223.5" font-size="10" text-anchor="end" fill="#ffffff">Dart</text>
-<rect x="75" y="214.5" width="7.603004102873695" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="88.6030041028737" y="223.5" font-size="9" fill="#ffffff">18:32    |    1.2%</text>
-<text font-family="Calibri" x="67" y="247.5" font-size="10" text-anchor="end" fill="#ffffff">Python</text>
-<rect x="75" y="238.5" width="5.824991921736773" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="86.82499192173677" y="247.5" font-size="9" fill="#ffffff">14:12    |    0.9%</text>
-<text font-family="Calibri" x="67" y="271.5" font-size="10" text-anchor="end" fill="#ffffff">YAML</text>
-<rect x="75" y="262.5" width="2.5820839756748337" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="83.58208397567483" y="271.5" font-size="9" fill="#ffffff">06:17    |    0.4%</text>
-      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#ffffff"><tspan font-weight="bold">Total:</tspan> 1,517 hrs 20 mins</text>
+  <g transform="translate(175, 56) scale(1)">
+      <text x="20" y="20" fill="black" font-size="14">
+              ⚠︎ Error: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+            </text>
     </g>
 </svg>
