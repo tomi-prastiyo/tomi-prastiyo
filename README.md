@@ -1,6 +1,6 @@
 ## Hi there, I'm Tomi Prastiyo 👋
 
-![Tomi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomipr&layout=compact&langs_count=10)
+<img src="wakatime/stats.svg" width="100%">
 
 **`Full Stack Developer`**
 
