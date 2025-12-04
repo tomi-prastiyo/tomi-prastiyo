@@ -27,15 +27,12 @@ I'm a passionate full stack developer with a keen interest in building scalable 
 
 <img src="wakatime/activity.svg" alt="Activity" width="100%">
 
-### 🕒 **Daily Average** & 🔥 **Top Languages**
+### 🕒 **Daily Average**:
 
-<p align="center">
-  <img src="wakatime/daily.svg" alt="Daily Average" width="500" />
-  <img src="wakatime/languages.svg" alt="Top Languages" width="500" />
-</p>
+<img src="wakatime/daily.svg" alt="Daily" width="100%">
 
 ---
 
 **Let's Connect!** 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomi-prastiyo-a47877157/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomi-prastiyo/)
