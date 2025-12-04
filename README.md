@@ -30,8 +30,8 @@ I'm a passionate full stack developer with a keen interest in building scalable 
 ### 🕒 **Daily Average** & 🔥 **Top Languages**
 
 <p align="center">
-  <img src="https://wakatime.com/share/@tomipr/3807cb5c-1751-4fcc-80d2-88331fbbf6ae.svg" alt="Daily Average" width="500" />
-  <img src="https://wakatime.com/share/@tomipr/4995a4af-6e50-4197-b2f7-bda9bbd5017d.svg" alt="Top Languages" width="500" />
+  <img src="wakatime/daily.svg" alt="Daily Average" width="500" />
+  <img src="wakatime/languages.svg" alt="Top Languages" width="500" />
 </p>
 
 ---
