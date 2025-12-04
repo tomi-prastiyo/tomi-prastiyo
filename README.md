@@ -1,6 +1,6 @@
 ## Hi there, I'm Tomi Prastiyo 👋
 
-<img src="wakatime/stats.svg" width="100%">
+<img src="wakatime/stats.svg" alt="Stats" width="100%">
 
 **`Full Stack Developer`**
 
@@ -25,7 +25,7 @@ I'm a passionate full stack developer with a keen interest in building scalable 
 
 ### 📊 **Activity**:
 
-<img src="https://wakatime.com/share/@tomipr/6bada289-9756-49ab-a5bc-3103b6860309.svg" alt="Activity" width="100%">
+<img src="wakatime/activity.svg" alt="Activity" width="100%">
 
 ### 🕒 **Daily Average** & 🔥 **Top Languages**
 

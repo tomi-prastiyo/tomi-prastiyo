@@ -23,8 +23,15 @@ jobs:
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
-          curl -s "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=tomipr&api_key=$WAKATIME_API_KEY&themes=graphite_rose&title_prefix=Tomi%27s&components=2&bg_color=2a2a2e&title_color=ff8fc8&text_color=ffffff&border_color=f5f5f5&component1_type=all_langs&component1_chart_color=ff5bab&component2_type=heatmap&component2_heatmap_color=ffb7d5" \
+          curl -s "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=tomipr&api_key=$WAKATIME_API_KEY&themes=graphite_rose&title_prefix=Tomi%27s&components=2&bg_color=2a2a2e&title_color=ff8fc8&text_color=ffffff&border_color=f5f5f5&component1_type=all_langs&component1_chart_color=ff5bab" \
             -o wakatime/stats.svg
+
+      - name: Generate Activity SVG
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          curl -s "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=tomipr&api_key=$WAKATIME_API_KEY&themes=graphite_rose&title_prefix=Tomi%27s&components=2&bg_color=2a2a2e&title_color=ff8fc8&text_color=ffffff&border_color=f5f5f5&component1_type=heatmap&component1_heatmap_color=ffb7d5" \
+            -o wakatime/activity.svg
 
       - name: Commit SVG to repo
         run: |
