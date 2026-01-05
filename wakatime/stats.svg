@@ -22,13 +22,13 @@
       <text font-family="Calibri" x="245" y="22.5" font-size="12" text-anchor="middle" fill="#ffffff" font-weight="bold">I mostly code in Go</text>
       <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#ffffff">Go</text>
 <rect x="75" y="46.5" width="340" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="421" y="55.5" font-size="9" fill="#ffffff">896:18    |    56.5%</text>
+<text font-family="Calibri" x="421" y="55.5" font-size="9" fill="#ffffff">896:18    |    56.4%</text>
 <text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#ffffff">JavaScript</text>
 <rect x="75" y="70.5" width="128.91493237596077" height="12" fill="#ff5bab" rx="2" ry="2" />
 <text font-family="Calibri" x="209.91493237596077" y="79.5" font-size="9" fill="#ffffff">339:50    |    21.4%</text>
 <text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#ffffff">TypeScript</text>
-<rect x="75" y="94.5" width="69.83548204911575" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="150.83548204911574" y="103.5" font-size="9" fill="#ffffff">184:06    |    11.6%</text>
+<rect x="75" y="94.5" width="70.71997642573606" height="12" fill="#ff5bab" rx="2" ry="2" />
+<text font-family="Calibri" x="151.71997642573606" y="103.5" font-size="9" fill="#ffffff">186:25    |    11.7%</text>
 <text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#ffffff">SQL</text>
 <rect x="75" y="118.5" width="14.332729448428358" height="12" fill="#ff5bab" rx="2" ry="2" />
 <text font-family="Calibri" x="95.33272944842835" y="127.5" font-size="9" fill="#ffffff">37:47    |    2.4%</text>
@@ -50,6 +50,6 @@
 <text font-family="Calibri" x="67" y="271.5" font-size="10" text-anchor="end" fill="#ffffff">YAML</text>
 <rect x="75" y="262.5" width="4.957699605777837" height="12" fill="#ff5bab" rx="2" ry="2" />
 <text font-family="Calibri" x="85.95769960577783" y="271.5" font-size="9" fill="#ffffff">13:04    |    0.8%</text>
-      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#ffffff"><tspan font-weight="bold">Total:</tspan> 1,610 hrs 40 mins</text>
+      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#ffffff"><tspan font-weight="bold">Total:</tspan> 1,615 hrs 36 mins</text>
     </g>
 </svg>
