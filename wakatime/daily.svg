@@ -31,7 +31,7 @@
 <line x1="181.5" y1="141.20588235294116" x2="144.30996521849502" y2="218.43178531600566" stroke="#878787" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="97.93475038441511" y2="160.2791052634824" stroke="#878787" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="114.48587293131172" y2="87.76389933647829" stroke="#878787" stroke-width="0.5"/>
-<polygon points="181.5,66.66623253244285 248.51412706868828,87.76389933647829 231.61917544496447,152.64525709006932 201.82736891488167,183.41609884071235 159.14222926798695,187.632271657625 152.0255527758507,147.93323259311012 153.7188778185002,119.0511766999044" fill="#ff8fc8" fill-opacity="0.2" stroke="#ff8fc8" stroke-width="2"/>
+<polygon points="181.5,66.66623253244285 248.51412706868828,87.76389933647829 231.61917544496447,152.64525709006932 201.33434705013022,182.39232838957795 159.2663782556776,187.37447362832253 152.10577249212466,147.91492296635315 153.7188778185002,119.0511766999044" fill="#ff8fc8" fill-opacity="0.2" stroke="#ff8fc8" stroke-width="2"/>
 <text x="181.5" y="43.49159663865544" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#ffffff">Mon</text>
 <text x="257.8961048583046" y="80.28202171417348" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#ffffff">Tue</text>
 <text x="276.76438456176675" y="162.94935647095818" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#ffffff">Wed</text>
@@ -45,7 +45,7 @@
                 </text>
                 <rect x="75.5" y="266.5" width="73" height="14" fill="#ff8fc8" fill-opacity="0.62" />
                 <text x="112" y="277.5" font-size="9" text-anchor="middle" fill="#ffffff">
-                  03:30 (19.8%)
+                  03:30 (19.9%)
                 </text>
               
 
@@ -54,7 +54,7 @@
                 </text>
                 <rect x="255.5" y="266.5" width="73" height="14" fill="#ff8fc8" fill-opacity="0.70" />
                 <text x="292" y="277.5" font-size="9" text-anchor="middle" fill="#ffffff">
-                  04:02 (22.8%)
+                  04:02 (22.9%)
                 </text>
               
 
@@ -70,9 +70,9 @@
                 <text x="207.5" y="300.5" font-size="10" font-weight="bold" fill="#ffffff">
                   Thu:
                 </text>
-                <rect x="255.5" y="290.5" width="73" height="14" fill="#ff8fc8" fill-opacity="0.43" />
+                <rect x="255.5" y="290.5" width="73" height="14" fill="#ff8fc8" fill-opacity="0.42" />
                 <text x="292" y="301.5" font-size="9" text-anchor="middle" fill="#ffffff">
-                  02:12 (12.5%)
+                  02:09 (12.2%)
                 </text>
               
 
@@ -81,7 +81,7 @@
                 </text>
                 <rect x="75.5" y="314.5" width="73" height="14" fill="#ff8fc8" fill-opacity="0.46" />
                 <text x="112" y="325.5" font-size="9" text-anchor="middle" fill="#ffffff">
-                  02:25 (13.7%)
+                  02:24 (13.7%)
                 </text>
               
 
@@ -90,7 +90,7 @@
                 </text>
                 <rect x="255.5" y="314.5" width="73" height="14" fill="#ff8fc8" fill-opacity="0.31" />
                 <text x="292" y="325.5" font-size="9" text-anchor="middle" fill="#ffffff">
-                  01:25 (8.0%)
+                  01:25 (8.1%)
                 </text>
               
 
@@ -102,6 +102,6 @@
                   01:40 (9.5%)
                 </text>
               
-      <text x="177.5" y="382.5" font-size="12" text-anchor="middle" fill="#ffffff"><tspan font-weight="bold">Total:</tspan> 17 hrs 41 mins</text>
+      <text x="177.5" y="382.5" font-size="12" text-anchor="middle" fill="#ffffff"><tspan font-weight="bold">Total:</tspan> 17 hrs 37 mins</text>
     </g>
 </svg>
