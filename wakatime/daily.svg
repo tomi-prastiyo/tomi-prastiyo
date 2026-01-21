@@ -31,7 +31,7 @@
 <line x1="181.5" y1="141.20588235294116" x2="144.30996521849502" y2="218.43178531600566" stroke="#878787" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="97.93475038441511" y2="160.2791052634824" stroke="#878787" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="114.48587293131172" y2="87.76389933647829" stroke="#878787" stroke-width="0.5"/>
-<polygon points="181.5,66.79536159892542 248.51412706868828,87.76389933647829 231.0365791790238,152.51228329416432 200.88034933657352,181.44959242338257 159.28421674456754,187.3374316244601 147.17638854115015,149.0400226859266 153.6258329485144,118.9769758921187" fill="#ff8fc8" fill-opacity="0.2" stroke="#ff8fc8" stroke-width="2"/>
+<polygon points="181.5,66.79536159892542 248.51412706868828,87.76389933647829 231.35449210171905,152.5848448441938 200.88034933657352,181.44959242338257 159.28421674456754,187.3374316244601 147.17638854115015,149.0400226859266 153.6258329485144,118.9769758921187" fill="#ff8fc8" fill-opacity="0.2" stroke="#ff8fc8" stroke-width="2"/>
 <text x="181.5" y="43.49159663865544" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#ffffff">Mon</text>
 <text x="257.8961048583046" y="80.28202171417348" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#ffffff">Tue</text>
 <text x="276.76438456176675" y="162.94935647095818" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#ffffff">Wed</text>
@@ -63,7 +63,7 @@
                 </text>
                 <rect x="75.5" y="290.5" width="73" height="14" fill="#ff8fc8" fill-opacity="0.46" />
                 <text x="112" y="301.5" font-size="9" text-anchor="middle" fill="#ffffff">
-                  02:23 (13.5%)
+                  02:24 (13.5%)
                 </text>
               
 
@@ -81,7 +81,7 @@
                 </text>
                 <rect x="75.5" y="314.5" width="73" height="14" fill="#ff8fc8" fill-opacity="0.46" />
                 <text x="112" y="325.5" font-size="9" text-anchor="middle" fill="#ffffff">
-                  02:24 (13.6%)
+                  02:24 (13.5%)
                 </text>
               
 
@@ -102,6 +102,6 @@
                   01:40 (9.4%)
                 </text>
               
-      <text x="177.5" y="382.5" font-size="12" text-anchor="middle" fill="#ffffff"><tspan font-weight="bold">Total:</tspan> 17 hrs 47 mins</text>
+      <text x="177.5" y="382.5" font-size="12" text-anchor="middle" fill="#ffffff"><tspan font-weight="bold">Total:</tspan> 17 hrs 48 mins</text>
     </g>
 </svg>
