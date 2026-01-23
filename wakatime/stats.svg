@@ -22,13 +22,13 @@
       <text font-family="Calibri" x="245" y="22.5" font-size="12" text-anchor="middle" fill="#ffffff" font-weight="bold">I mostly code in Go</text>
       <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#ffffff">Go</text>
 <rect x="75" y="46.5" width="340" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="421" y="55.5" font-size="9" fill="#ffffff">914:51    |    55.5%</text>
+<text font-family="Calibri" x="421" y="55.5" font-size="9" fill="#ffffff">914:51    |    55.4%</text>
 <text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#ffffff">JavaScript</text>
 <rect x="75" y="70.5" width="126.33883843375914" height="12" fill="#ff5bab" rx="2" ry="2" />
 <text font-family="Calibri" x="207.33883843375912" y="79.5" font-size="9" fill="#ffffff">339:56    |    20.6%</text>
 <text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#ffffff">TypeScript</text>
-<rect x="75" y="94.5" width="78.64623976925944" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="159.64623976925944" y="103.5" font-size="9" fill="#ffffff">211:37    |    12.8%</text>
+<rect x="75" y="94.5" width="79.61281913164063" height="12" fill="#ff5bab" rx="2" ry="2" />
+<text font-family="Calibri" x="160.61281913164063" y="103.5" font-size="9" fill="#ffffff">214:13    |    13.0%</text>
 <text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#ffffff">SQL</text>
 <rect x="75" y="118.5" width="14.756071777672384" height="12" fill="#ff5bab" rx="2" ry="2" />
 <text font-family="Calibri" x="95.75607177767239" y="127.5" font-size="9" fill="#ffffff">39:42    |    2.4%</text>
@@ -41,15 +41,15 @@
 <text font-family="Calibri" x="67" y="199.5" font-size="10" text-anchor="end" fill="#ffffff">Python</text>
 <rect x="75" y="190.5" width="8.994108046786291" height="12" fill="#ff5bab" rx="2" ry="2" />
 <text font-family="Calibri" x="89.9941080467863" y="199.5" font-size="9" fill="#ffffff">24:12    |    1.5%</text>
-<text font-family="Calibri" x="67" y="223.5" font-size="10" text-anchor="end" fill="#ffffff">PHP</text>
-<rect x="75" y="214.5" width="7.435419326482238" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="88.43541932648223" y="223.5" font-size="9" fill="#ffffff">20:00    |    1.2%</text>
-<text font-family="Calibri" x="67" y="247.5" font-size="10" text-anchor="end" fill="#ffffff">Dart</text>
-<rect x="75" y="238.5" width="7.434856045293509" height="12" fill="#ff5bab" rx="2" ry="2" />
-<text font-family="Calibri" x="88.43485604529351" y="247.5" font-size="9" fill="#ffffff">20:00    |    1.2%</text>
+<text font-family="Calibri" x="67" y="223.5" font-size="10" text-anchor="end" fill="#ffffff">Dart</text>
+<rect x="75" y="214.5" width="7.76648653151098" height="12" fill="#ff5bab" rx="2" ry="2" />
+<text font-family="Calibri" x="88.76648653151098" y="223.5" font-size="9" fill="#ffffff">20:53    |    1.3%</text>
+<text font-family="Calibri" x="67" y="247.5" font-size="10" text-anchor="end" fill="#ffffff">PHP</text>
+<rect x="75" y="238.5" width="7.435419326482238" height="12" fill="#ff5bab" rx="2" ry="2" />
+<text font-family="Calibri" x="88.43541932648223" y="247.5" font-size="9" fill="#ffffff">20:00    |    1.2%</text>
 <text font-family="Calibri" x="67" y="271.5" font-size="10" text-anchor="end" fill="#ffffff">YAML</text>
 <rect x="75" y="262.5" width="5.896274807768225" height="12" fill="#ff5bab" rx="2" ry="2" />
 <text font-family="Calibri" x="86.89627480776822" y="271.5" font-size="9" fill="#ffffff">15:51    |    1.0%</text>
-      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#ffffff"><tspan font-weight="bold">Total:</tspan> 1,676 hrs 4 mins</text>
+      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#ffffff"><tspan font-weight="bold">Total:</tspan> 1,679 hrs 34 mins</text>
     </g>
 </svg>
