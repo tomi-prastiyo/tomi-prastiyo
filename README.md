@@ -143,12 +143,16 @@ Off-screen, I'm deep into anime, novels, and manga — the creative fuel behind 
 <br>
 
 <a href="https://github.com/tomi-prastiyo">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tomi-prastiyo&show_icons=true&bg_color=0d1117&title_color=ff8fc8&text_color=c9d1d9&icon_color=ff69b4&border_color=30363d&include_all_commits=true&count_private=true&ring_color=ff69b4" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomi-prastiyo&theme=github_dark" />
 </a>
 <img width="4" />
 <a href="https://github.com/tomi-prastiyo">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomi-prastiyo&layout=compact&bg_color=0d1117&title_color=ff8fc8&text_color=c9d1d9&border_color=30363d&langs_count=8" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomi-prastiyo&theme=github_dark" />
 </a>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomi-prastiyo&theme=github_dark" width="70%" />
 
 <br><br>
 
@@ -162,12 +166,22 @@ Off-screen, I'm deep into anime, novels, and manga — the creative fuel behind 
 
 <div align="center">
 
-### ⏱️ &nbsp;Weekly Coding Stats
+### ⏱️ &nbsp;WakaTime Stats
 
 <br>
 
 <a href="https://wakatime.com/@tomipr">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tomipr&layout=compact&bg_color=0d1117&title_color=ff8fc8&text_color=c9d1d9&border_color=30363d&langs_count=10&custom_title=WakaTime%20—%20This%20Week" width="55%" />
+  <img src="https://img.shields.io/badge/WakaTime-%40tomipr-ff8fc8?style=for-the-badge&logo=wakatime&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://wakatime.com/@tomipr">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tomi-prastiyo&theme=github_dark&utcOffset=7" width="45%" />
+</a>
+<img width="4" />
+<a href="https://wakatime.com/@tomipr">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomi-prastiyo&theme=github_dark" width="45%" />
 </a>
 
 </div>
